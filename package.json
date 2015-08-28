@@ -1,0 +1,28 @@
+{
+  "name": "libflixy",
+  "version": "0.0.0",
+  "description": "A library to integrate with flixy and the Netflix HTML5 player and keep them both in sync.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/flixy/libflixy"
+  },
+  "keywords": [
+    "sync",
+    "realtime",
+    "socket.io",
+    "netflix",
+    "flixy"
+  ],
+  "author": "Rylee Fowler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/flixy/libflixy/issues"
+  },
+  "dependencies": {
+    "socket.io-client": "^1.3.6"
+  }
+}
