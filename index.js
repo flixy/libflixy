@@ -30,6 +30,9 @@ Flixy.prototype.ConnectToFlixyServer = function(hoststring) {
   });
 };
 
+Flixy.prototype.UpdateSession = function(update) {
+};
+
 Flixy.prototype.SetNetflixCadmium = function(cad) {
   // test for cadmium methods
 };
